@@ -6,8 +6,8 @@ Là một học sinh may mắn được học môn tiếng Nhật ở nhà trư�
 Cách sử dụng:
 - Bước 1: Tạo file *JPspeaking.txt* và *JPanswer.txt*, file speaking sẽ là câu hỏi, bạn cần dán câu hỏi cần ôn tập vào file này, file answer sẽ là câu trả lời, bạn sẽ soạn câu trả lời bạn muốn vào đây.
 - Bước 2: Khởi động chương trình, cửa sổ hiện lên bao gồm phần màn hình lớn (hiển thị câu hỏi), bên phải gồm nút
-  + Continue (tiếp tục chọn random)
-  + Repeat (lặp lại câu vừa rồi)
+  + Continue (tiếp tục chọn random, có thể bấm phím space)
+  + Repeat (lặp lại câu vừa rồi, bấm chữ R)
   + Tăng/giảm tốc độ nói (+ / -)
   + Bạn cũng có thể chọn vào câu hỏi chỉ định ở thanh trạng thái bên dưới
 - Khi thực hành nghe câu hỏi + trả lời xong, bạn cần bấm continue hoặc chọn câu trả lời khác
